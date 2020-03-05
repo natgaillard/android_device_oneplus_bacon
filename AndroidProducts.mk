@@ -17,6 +17,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/havoc_bacon.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_bacon-user \
-    havoc_bacon-userdebug \
-    havoc_bacon-eng
+    arrow_bacon-user \
+    arrow_bacon-userdebug \
+    arrow_bacon-eng
